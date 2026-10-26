@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "hola_entorno",
+            "cwd": "hola_entorno",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "hola_flutter",
+            "cwd": "hola_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "hola_flutter (profile mode)",
+            "cwd": "hola_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "hola_flutter (release mode)",
+            "cwd": "hola_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
